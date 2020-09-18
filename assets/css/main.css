@@ -4,6 +4,7 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
+    padding-top: 20px;
 }
 form span, form label, th{
     color: burlywood;
