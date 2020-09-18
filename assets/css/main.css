@@ -1,3 +1,10 @@
+body{
+    
+    background: url("../image/merlin_136429599_a93f4181-8cb4-43b1-8736-ab6b7a68b760-jumbo.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
 form span, form label, th{
     color: burlywood;
 }
