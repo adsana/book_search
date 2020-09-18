@@ -38,6 +38,10 @@ h1 {
     
 }
 
+p {
+    text-align: center;
+}
+
 
 .form-button{
     background-color: burlywood;
